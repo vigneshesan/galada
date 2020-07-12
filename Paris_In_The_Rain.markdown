@@ -6,6 +6,8 @@ image:  tiger.jpg
 tags:   Blog
 ---
 
+Hello Dear Reader, This Blog is still a work in progress, I have added Paris In The Rain by Lauv Lyric, The one I was listening to while building the Page. Cheers!!!
+
 All I know is (ooh ooh ooh)<br/>
 We could go anywhere, we could do<br/>
 Anything, girl, whatever the mood we're in<br/>
@@ -75,3 +77,4 @@ Paris in the Rain lyrics © Warner Chappell Music, Inc, Warner Chappell Music In
 
 ![]({{site.baseurl}}/img/lion.jpg)
 
+<iframe src="https://www.youtube.com/watch?v=kOCkne-Bku4" frameborder="0" allowfullscreen></iframe> 
