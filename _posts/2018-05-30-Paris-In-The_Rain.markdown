@@ -6,7 +6,9 @@ image:  tiger.jpg
 tags:   Blog
 ---
 
-Hello Dear Reader, This Blog is still a work in progress, I have added Paris In The Rain by Lauv Lyric, The one I was listening to while building the Page. Cheers!!!
+Hello Dear Reader, This Blog is still a work in progress, I have added Paris In The Rain by Lauv Lyric, The one I was listening to while building the Page. Cheers!!! 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kOCkne-Bku4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 All I know is (ooh ooh ooh)<br/>
 We could go anywhere, we could do<br/>
@@ -77,4 +79,4 @@ Paris in the Rain lyrics © Warner Chappell Music, Inc, Warner Chappell Music In
 
 ![]({{site.baseurl}}/img/lion.jpg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kOCkne-Bku4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
