@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: VK.jpg
+image: psteam.jpg
 permalink: /about/
 ---
 
