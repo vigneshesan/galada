@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # About Section
 author-name:   Vignesh Kumaresan
-author-avatar: 09.jpg
+author-avatar: avatar.jpg
 
 
 #-------------------------------
@@ -18,22 +18,22 @@ author-avatar: 09.jpg
 facebook:  https://facebook.com/vigneshesan # Add your Facebook handle
 twitter:   https://twitter.com/vigneshesan # Add your Facebook handle
 instagram: https://www.instagram.com/vigneshesan # Add your Facebook handle
-pinterest: https://www.pinterest.com/vigneshesan # Add your Facebook handle
+github: https://www.github.com/vigneshesan # Add your Facebook handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: Vigneshesan # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
 # Instagram Feed
-instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: UA-130767494-1 # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
