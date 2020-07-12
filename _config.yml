@@ -38,7 +38,7 @@ google-analytics: UA-172431519-1 # Add your identifier. For example UA-99631805-
 
 #-------------------------------
 # Newsletter
-mailchimp: https://vigneshk.us10.list-manage.com/subscribe/post?u=f3ef763b1743878019a50d991&amp;id=36912fa33e # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp: vigneshk.us10.list-manage.com/subscribe/post?u=f3ef763b1743878019a50d991&amp;id=36912fa33e # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 
 #-------------------------------
