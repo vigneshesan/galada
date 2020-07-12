@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Paris In The Rain
-date:   2020-07-13 16:03:30 +0300
-image:  tiger.jpg
-tags:   Blog
----
+title: Paris In The Rain
+date: 2020-07-13T16:03:30.000+03:00
+image: tiger.jpg
+tags: Blog
 
-Hello Dear Reader, This Blog is still a work in progress, I have added Paris In The Rain by Lauv Lyric, The one I was listening to while building the Page. Cheers!!! 
+---
+Hello Dear Reader, This Blog is still a work in progress, I have added Paris In The Rain by Lauv Lyric, The one I was listening to while building the Page. Cheers!!!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kOCkne-Bku4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -79,4 +79,4 @@ Paris in the Rain lyrics © Warner Chappell Music, Inc, Warner Chappell Music In
 
 ![]({{site.baseurl}}/img/lion.jpg)
 
-
+![](/img/avatar.jpg)
