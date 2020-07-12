@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: Forestry CMS Trials
 date: 2020-07-12 18:30:00 +0000
 image: "/VK.jpg"
