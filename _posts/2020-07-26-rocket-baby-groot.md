@@ -1,5 +1,5 @@
 ---
-layout: ''
+layout: post
 title: Rocket & Baby Groot
 date: 2020-07-26 18:30:00 +0000
 image: "/baby-groot-wallpapers.jpg"
