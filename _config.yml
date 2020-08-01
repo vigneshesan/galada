@@ -44,7 +44,7 @@ mailchimp: vigneshk.us10.list-manage.com/subscribe/post?u=f3ef763b1743878019a50d
 #-------------------------------
 # Build settings
 markdown: kramdown
-permalink: ':date/title/'
+permalink: ':date/'
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
