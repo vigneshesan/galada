@@ -49,6 +49,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-menus
+  - jekyll-seo-tag
 
 paginate: 7
 paginate_path: "/page/:num"
