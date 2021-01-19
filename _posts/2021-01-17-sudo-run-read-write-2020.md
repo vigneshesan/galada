@@ -2,7 +2,7 @@
 layout: post
 title: Sudo Run Read/Write 2020
 date: 2021-01-17 00:00:00 +0530
-image: "/readwrite.jpg"
+image: "/writeread.jpg"
 tags: linkedin
 
 ---
